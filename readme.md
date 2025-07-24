@@ -10,7 +10,8 @@ medical-sr-project/
 │   ├── 3_finetune_asl_c13.ipynb       # Domain-specific fine-tuning
 │   └── 4_evaluation_visualization.ipynb
 │
-├── src/                           # Python scripts (for modularity)
+├── src/              
+             # Python scripts (for modularity)
 │   ├── models/
 │   │   ├── real_esrgan_model.py       # Wrapper for ESRGAN
 │   │   ├── swinir_model.py            # Transformer-based model
