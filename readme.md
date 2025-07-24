@@ -22,8 +22,7 @@ medical-sr-project/
 │       ├── trainer.py                # Training loop logic
 │       └── scheduler.py             # Learning rate + freezing scheduler
 │
-├── data/               
-          # Not pushed to GitHub (add to .gitignore)
+├── data/                         # Not pushed to GitHub (add to .gitignore)
 │   ├── raw/
 │   ├── synthetic/
 │   └── processed/
