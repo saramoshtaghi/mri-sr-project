@@ -43,3 +43,4 @@ medical-sr-project/
 | 2. Transformer-based SR           | SwinIR / HAT             | Do the same, but with better global understanding | ✅ Used in training & testing  | SR model                 |
 | 3. GANs (optional for data synth) | Any GAN (e.g., StyleGAN) | Create **fake medical images** for training       | ✅ Only used in training phase | Synthetic data generator |
 
+
