@@ -27,7 +27,6 @@ medical-sr-project/
 │   ├── synthetic/
 │   └── processed/
 │
-
 ├── checkpoints/                 # Model weights (also .gitignore)
 │   ├── pretrained_esrgan.pth
 │   └── fine_tuned_asl.pth
